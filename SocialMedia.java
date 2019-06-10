@@ -1,0 +1,27 @@
+public enum ContactTypes {
+    WHATSAPP,
+    FACEBOOK,
+    INSTAGRAM,
+    TWITTER,
+    LINE,
+    TELEGRAM,
+    WEBSITE,
+    PHONEMAIN,
+    SKYPE,
+    EMAIL,
+    GOOGLE,
+    LINKEDIN,
+    YOUTUBE,
+    PINTEREST,
+    SNAPCHAT,
+    VIMEO,
+    TUMBLR,
+    VINE,
+    FOURSQUARE,
+    YAHOO,
+    FLICKR,
+    RSS,
+    REDDIT,
+    PHONEALT;
+
+}
